@@ -40,7 +40,7 @@ Follow these instructions to set up the project locally.
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/shiningsudipto/fitness-tools-client.git
+   git clone https://github.com/JobaerAbdi/fitness-tools
    cd fitness-tolls
    ```
 
@@ -99,10 +99,3 @@ Follow these instructions to set up the project locally.
 - Button to create a new product, opening a form with fields for name, price, description, images (supports ImgBB for image upload or direct link entry), category, and stock.
 - Real-time addition of the new product to the product list after creation.
 
-## Contact
-
-For any inquiries or issues, please contact:
-
-- **Sudipta Das**
-- **Email**: shiningsudipto@gmail.com
-- **GitHub**: [shiningsudipto](https://github.com/shiningsudipto)
