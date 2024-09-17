@@ -1,5 +1,4 @@
 import { Carousel } from "antd";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
 import b1 from "../../../assets/images/b1.webp";
 import b2 from "../../../assets/images/b2.webp";
 import b3 from "../../../assets/images/b3.webp";
@@ -14,7 +13,7 @@ const Hero = () => {
           <h1 className="text-white text-xs md:text-sm lg:text-base font-bold">
             BRING THE CLUB EXPERIENCE HOME
           </h1>
-          <h2 className="text-white text-xl md:text-3xl lg:text-6xl font-serif mt-4">
+          <h2 className="text-white text-xl md:text-3xl lg:text-6xl font-serif mt-4 mb-5">
             CLUB SERIES+ <br /> CARDIO EQUIPMENT
           </h2>
           <Link
@@ -31,7 +30,7 @@ const Hero = () => {
           <img
             loading="lazy"
             className="w-full h-[300px] md:h-[400px] lg:h-[700px] object-cover"
-            src="https://i.ibb.co/rQp5mqX/Screenshot-2024-08-18-110818-1.png"
+            src={b3}
             alt="Shirtless bodybuilder doing side plank exercise"
           />
         </div>
@@ -55,7 +54,7 @@ const Hero = () => {
           <img
             loading="lazy"
             className="w-full h-[300px] md:h-[400px] lg:h-[700px] object-cover"
-            src="https://i.ibb.co/C5rmkWG/Screenshot-2024-08-18-110849.png"
+            src={b2}
             alt="Young healthy man athlete doing exercise with ropes in gym"
           />
         </div>

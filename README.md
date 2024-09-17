@@ -2,8 +2,6 @@
 
 # Fitness Tolls
 
-### Live URL: https://fitness-tools-mu.vercel.app
-
 ## Project Overview
 
 Fitness Tolls is an e-commerce platform dedicated to selling fitness equipment and accessories. The site provides a user-friendly interface to browse, search, and purchase a variety of fitness products.
