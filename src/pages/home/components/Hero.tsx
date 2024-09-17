@@ -1,5 +1,4 @@
 import { Carousel } from "antd";
-import b1 from "../../../assets/images/b1.webp";
 import b2 from "../../../assets/images/b2.webp";
 import b3 from "../../../assets/images/b3.webp";
 import { Link } from "react-router-dom";
